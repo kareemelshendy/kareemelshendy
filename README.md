@@ -87,7 +87,7 @@ Currently building at **Labayh** — I specialize in turning complex requirement
 <div align="center">
 
 <img height="165" src="https://streak-stats.demolab.com?user=kareemelshendy&theme=transparent&hide_border=true&ring=0f6e56&fire=1d9e75&currStreakLabel=0f6e56&sideLabels=0f6e56&dates=888888" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemelshendy&layout=compact&hide_border=true&title_color=0f6e56&text_color=444444&bg_color=00000000&langs_count=6" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kareemelshendy&theme=transparent" />
 
 </div>
 
