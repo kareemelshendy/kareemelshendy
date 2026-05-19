@@ -86,8 +86,14 @@ Currently building at **Labayh** — I specialize in turning complex requirement
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kareemelshendy&show_icons=true&theme=default&hide_border=true&title_color=0f6e56&icon_color=1d9e75&text_color=444444&bg_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemelshendy&layout=compact&theme=default&hide_border=true&title_color=0f6e56&text_color=444444&bg_color=ffffff" />
+<img height="165" src="https://streak-stats.demolab.com?user=kareemelshendy&theme=transparent&hide_border=true&ring=0f6e56&fire=1d9e75&currStreakLabel=0f6e56&sideLabels=0f6e56&dates=888888" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemelshendy&layout=compact&hide_border=true&title_color=0f6e56&text_color=444444&bg_color=00000000&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=kareemelshendy&color=0f6e56&style=flat-square&label=Profile+Views)
 
 </div>
 
